@@ -1,3 +1,4 @@
+# Review Analysis by NLP
 Natural Language Processing (NLP) makes it possible for computers to understand the human language. Behind the scenes, NLP analyzes the grammatical structure of sentences and the individual meaning of words, then uses algorithms to extract meaning and deliver outputs. In other words, it makes sense of human language so that it can automatically perform different tasks.
 A Machine Learning Project using Natural Language Processing(NLP) which can help computers analyze text easily, NLP tasks are headed in understanding human language.Probably, the most popular examples of NLP in action are virtual assistants, like Google Assist, Siri, and Alexa. NLP understands written and spoken text like “Hey Siri, where is the nearest gas station?” and transforms it into numbers, making it easy for machines to understand.In this project we have used it for analyzing the reviews of the customers in the restaurant are approving or disapproving.
 
